@@ -24,3 +24,13 @@ footer{
 	font-variant: small-caps;
 }
 /* End all letters */
+
+/* Specific blockquotes */
+#chapter-20 blockquote{
+	text-align: center;
+}
+
+#chapter-21 blockquote p:first-of-type{
+	text-indent: 1em;
+}
+/* End specific blockquotes */
