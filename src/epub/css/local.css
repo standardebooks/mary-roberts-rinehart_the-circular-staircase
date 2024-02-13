@@ -22,3 +22,15 @@ figcaption p + p{
 	text-indent: 0;
 }
 /* End all figures */
+
+/* All letters */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+/* End all letters */
