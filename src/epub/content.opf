@@ -42,43 +42,50 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107256</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Wealthy spinster Rachel Innes and her niece and nephew, Gertrude and Halsey, rent a country house called Sunnyside for the summer. Upon arrival, the butler reveals to them he believes there is a ghost in the house. During the first night, Rachel is roused from sleep by strange sounds. The next night, she is awakened by a revolver shot and discovers a dead body at the foot of the house’s circular staircase. The investigation into the murder reveals the house and its owners, the Armstrong family, hold many secrets.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Circular Staircase&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/mary-roberts-rinehart"&gt;Mary Roberts Rinehart&lt;/a&gt; was published in 1908 and is credited with pioneering the “Had I but known” school of mystery writing, a form of foreshadowing that hints at impending disaster through the narrator’s regrets of their actions. The novel was adapted as a silent film in 1915, and most notably as a hit Broadway play, “The Bat” in 1920.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/434</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/circularstairca00rinegoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Circular_Staircase</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-roberts-rinehart_the-circular-staircase</meta>
 		<dc:creator id="author">Mary Roberts Rinehart</dc:creator>
 		<meta property="file-as" refines="#author">Rinehart, Mary Roberts</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78078535</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="illustrator">Lester Ralph</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Ralph, Lester</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Lester_Ralph</meta>
+		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n93035747</meta>
+		<meta property="display-seq" refines="#illustrator">0</meta>
+		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Francis Davis Millet</dc:contributor>
+		<meta property="file-as" refines="#artist">Millet, Francis Davis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_Davis_Millet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n96107058</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Project Gutenberg</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Project Gutenberg</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://www.gutenberg.org/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Brad Taylor</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Taylor, Brad</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/btaylor8</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
