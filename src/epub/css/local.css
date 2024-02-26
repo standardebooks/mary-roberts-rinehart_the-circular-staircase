@@ -34,3 +34,10 @@ footer{
 	text-indent: 1em;
 }
 /* End specific blockquotes */
+
+/* Nested quotes */
+#chapter-3 q,
+#chapter-18 q{
+	font-style: italic;
+}
+/* End nested quotes */
