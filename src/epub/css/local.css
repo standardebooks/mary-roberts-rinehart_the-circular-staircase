@@ -36,8 +36,7 @@ footer{
 /* End specific blockquotes */
 
 /* Nested quotes */
-#chapter-3 q,
-#chapter-18 q{
+q{
 	font-style: italic;
 }
 /* End nested quotes */
